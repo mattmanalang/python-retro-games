@@ -5,7 +5,7 @@ The speed of the game is controlled via time.sleep found in the while loop in ma
 
 ## Movement
 
-This recreation uses WASD movement keys, but it can be changed fairly easily in main.
+The player can move the snake using the <kbd>W</kbd>, <kbd>A</kbd>, <kbd>S</kbd>, and <kbd>D</kbd> keys.
 
 ## High Scores
 
